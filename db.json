@@ -1,15 +1,8 @@
-{
-    "comentarios":[
-        {"id":1, "email": "micorreo@midominio.com", "nombre" : "Juan Perez", "entrada":"Comentario 1"},
-        {"id":2, "email": "ana_karenina@midominio.com", "nombre" : "Ana Karenina", "entrada":"Comentario 2"},
-        {"id":3, "email": "kalhesi_dragon@midominio.com", "nombre" : "Kaleshi Dragon", "entrada":"Comentario 3"},
-        {"id":4, "email": "jhon_snow@midominio.com", "nombre" : "Jhon Snow", "entrada":"Comentario 4"},
-        {"id":5, "email": "nedstar@midominio.com", "nombre" : " Ned Star", "entrada":"Comentario 5"}
-    ],
-
-    "productos":[
-        {"id":1,"dspProduco": "Mi Producto","descripcion":"Alguna descripcion"},
-        {"id":2,"dspProduco": "Mi Producto","descripcion":"Alguna descripcion"}
-
+[
+        {"id": 1, "codigo": "micorreo@midominio.com", "plan": "Juan Perez", "plazo": "Comentario 1", "anualidad":"2020-2021"},
+        {"id": 2, "codigo": "micorreo@midominio.com", "plan": "Juan Perez", "plazo": "Comentario 1", "anualidad":"2020-2021"},
+        {"id": 3, "codigo": "micorreo@midominio.com", "plan": "Juan Perez", "plazo": "Comentario 1", "anualidad":"2020-2021"},
+        {"id": 4, "codigo": "micorreo@midominio.com", "Plan": "Juan Perez", "plazo": "Comentario 1", "anualidad":"2020-2021"},
+        {"id": 5, "codigo": "micorreo@midominio.com", "Plan": "Juan Perez", "plazo": "Comentario 1", "anualidad":"2020-2021"}
+       
     ]
-}
